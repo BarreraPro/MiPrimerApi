@@ -14,8 +14,7 @@ namespace MiPrimerAPI_.Services
 
         public async Task<string> GetUsersAsync()
         {
-            var response = await
-    _httpClient.GetAsync("https://reqres.in/api/users?page=1");
+            var response = await _httpClient.GetAsync("https://reqres.in/api/users?page=1");
 
             if (!response.IsSuccessStatusCode)
                 throw new Exception("Error al consumir la API externa de usuarios"); 

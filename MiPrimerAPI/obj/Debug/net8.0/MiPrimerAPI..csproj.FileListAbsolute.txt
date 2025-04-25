@@ -166,3 +166,4 @@ C:\Users\Barrera\Documents\pII\MiPrimerAPI\MiPrimerAPI\bin\Debug\net8.0\runtimes
 C:\Users\Barrera\Documents\pII\MiPrimerAPI\MiPrimerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Barrera\Documents\pII\MiPrimerAPI\MiPrimerAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\Barrera\Documents\pII\MiPrimerAPI\MiPrimerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Barrera\Documents\pII\MiPrimerAPI\MiPrimerAPI\obj\Debug\net8.0\MiPrimerAPI..sourcelink.json
